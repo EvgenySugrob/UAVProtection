@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: b0af4eea995d35246abd20b8dc960c63
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bask_panel
+    100002: black_plastic
+    100004: Button
+    100006: CD_rom
+    100008: Dark_contain
+    100010: front_corpus
+    100012: Front_panels
+    100014: Glass1
+    100016: Green_audio
+    100018: Main_corpus
+    100020: Mednay
+    100022: Metal
+    100024: Microfon
+    100026: Panels
+    100028: //RootNode
+    400000: Bask_panel
+    400002: black_plastic
+    400004: Button
+    400006: CD_rom
+    400008: Dark_contain
+    400010: front_corpus
+    400012: Front_panels
+    400014: Glass1
+    400016: Green_audio
+    400018: Main_corpus
+    400020: Mednay
+    400022: Metal
+    400024: Microfon
+    400026: Panels
+    400028: //RootNode
+    2100000: lambert2
+    2300000: Bask_panel
+    2300002: black_plastic
+    2300004: Button
+    2300006: CD_rom
+    2300008: Dark_contain
+    2300010: front_corpus
+    2300012: Front_panels
+    2300014: Glass1
+    2300016: Green_audio
+    2300018: Main_corpus
+    2300020: Mednay
+    2300022: Metal
+    2300024: Microfon
+    2300026: Panels
+    3300000: Bask_panel
+    3300002: black_plastic
+    3300004: Button
+    3300006: CD_rom
+    3300008: Dark_contain
+    3300010: front_corpus
+    3300012: Front_panels
+    3300014: Glass1
+    3300016: Green_audio
+    3300018: Main_corpus
+    3300020: Mednay
+    3300022: Metal
+    3300024: Microfon
+    3300026: Panels
+    4300000: Mednay
+    4300002: Metal
+    4300004: front_corpus
+    4300006: Main_corpus
+    4300008: Front_panels
+    4300010: CD_rom
+    4300012: Panels
+    4300014: Glass1
+    4300016: Button
+    4300018: black_plastic
+    4300020: Dark_contain
+    4300022: Bask_panel
+    4300024: Green_audio
+    4300026: Microfon
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
